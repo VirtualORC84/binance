@@ -1,6 +1,6 @@
 {
   "name": "@virtualorc88/binance",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -17,7 +17,7 @@
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "virtualorc",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/virtualorc88/binance/issues"
@@ -28,11 +28,6 @@
   },
   "homepage": "https://github.com/virtualorc88/binance#readme",
   "dependencies": {
-    "@moncici/date-time-processor": "^1.0.3",
-    "@moncici/log": "^1.0.2",
-    "@moncici/proxy": "^1.0.3",
-    "@moncici/sleep": "^1.0.1",
-    "@openzeppelin/cli": "^2.8.2",
-    "feishu-notifier": "^1.0.3"
+    "@virtualorc88/airbnb": "^2.0.0"
   }
 }
