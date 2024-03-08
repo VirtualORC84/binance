@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/virtualorc88/binance#readme",
   "dependencies": {
-    "@virtualorc88/airbnb": "^2.0.0"
+    "@virtualorc88/airbnb-vir": "^3.0.0"
   }
 }
