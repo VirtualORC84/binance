@@ -1,6 +1,6 @@
 {
   "name": "@virtualorc88/binance",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
