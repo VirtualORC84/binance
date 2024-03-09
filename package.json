@@ -1,5 +1,5 @@
 {
-  "name": "@virtualorc88/binance",
+  "name": "@virtualorc88/binance-vir",
   "version": "1.0.9",
   "description": "",
   "type": "module",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/virtualorc88/binance"
+    "url": "https://github.com/virtualorc88/binance-vir"
   },
-  "website": "https://github.com/virtualorc88/binance.git",
+  "website": "https://github.com/virtualorc88/binance-vir.git",
   "keywords": [
     "binance",
     "client",
@@ -20,13 +20,13 @@
   "author": "virtualorc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/virtualorc88/binance/issues"
+    "url": "https://github.com/virtualorc88/binance-vir/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/virtualorc88/binance#readme",
+  "homepage": "https://github.com/virtualorc88/binance-vir#readme",
   "dependencies": {
     "@virtualorc88/airbnb-vir": "^3.0.3"
   }
